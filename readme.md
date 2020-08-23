@@ -21,9 +21,10 @@ Este projeto é puramente acadêmico cujo objetivo foca-se em nortear aos futuro
 - Construindo e finalizando a página index do seu projeto.
 
 ###### Projeto Web - Aula 03: Novas páginas HTML
-- Iniciando as outras páginas do site.
+- Criando páginas isoladas para cada filme com trailer e sinopse.
+- Iniciando as páginas de categorias do site.
 - Fazendo o roteamento entre páginas.
-- Criando uma página 404: NOT FOUND.
+- Criando uma página 404: **NOT FOUND**.
 
 ###### Projeto Web - Aula 04: Estilizando suas páginas HTML
 - Entendendo a importância do CSS.
